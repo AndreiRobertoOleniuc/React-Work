@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    color:white;
+}
+
+.screen{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100vh;
+    background-color: black;
+    width: 100%;
+}
+
+.field{
+    width: 9%;
+    border: 1px solid;
+    border-color: rgba(255, 255, 255, 0.267);
+}
+
+.snake{
+    width: 9%;
+    background-color: rgb(5, 255, 5);
+    border: 1px solid;
+    border-color: rgb(5, 255, 5);
+}

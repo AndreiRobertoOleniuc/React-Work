@@ -1,0 +1,11 @@
+.item {
+  border-radius: 3px;
+  margin-top: 20px;
+}
+#checkbox {
+  margin-right: 10px;
+}
+#boxForTodo {
+  background: #ececec;
+  border-radius: 20px;
+}
